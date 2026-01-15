@@ -1,0 +1,6001 @@
+[{
+    "eventId": "EVT-0",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1000,
+    "defectCount": 0
+},{
+    "eventId": "EVT-1",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1001,
+    "defectCount": 0
+},{
+    "eventId": "EVT-2",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1002,
+    "defectCount": 0
+},{
+    "eventId": "EVT-3",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1003,
+    "defectCount": 0
+},{
+    "eventId": "EVT-4",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1004,
+    "defectCount": 0
+},{
+    "eventId": "EVT-5",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1005,
+    "defectCount": 0
+},{
+    "eventId": "EVT-6",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1006,
+    "defectCount": 0
+},{
+    "eventId": "EVT-7",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1007,
+    "defectCount": 0
+},{
+    "eventId": "EVT-8",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1008,
+    "defectCount": 0
+},{
+    "eventId": "EVT-9",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1009,
+    "defectCount": 0
+},{
+    "eventId": "EVT-10",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1010,
+    "defectCount": 0
+},{
+    "eventId": "EVT-11",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1011,
+    "defectCount": 0
+},{
+    "eventId": "EVT-12",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1012,
+    "defectCount": 0
+},{
+    "eventId": "EVT-13",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1013,
+    "defectCount": 0
+},{
+    "eventId": "EVT-14",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1014,
+    "defectCount": 0
+},{
+    "eventId": "EVT-15",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1015,
+    "defectCount": 0
+},{
+    "eventId": "EVT-16",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1016,
+    "defectCount": 0
+},{
+    "eventId": "EVT-17",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1017,
+    "defectCount": 0
+},{
+    "eventId": "EVT-18",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1018,
+    "defectCount": 0
+},{
+    "eventId": "EVT-19",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1019,
+    "defectCount": 0
+},{
+    "eventId": "EVT-20",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1020,
+    "defectCount": 0
+},{
+    "eventId": "EVT-21",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1021,
+    "defectCount": 0
+},{
+    "eventId": "EVT-22",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1022,
+    "defectCount": 0
+},{
+    "eventId": "EVT-23",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1023,
+    "defectCount": 0
+},{
+    "eventId": "EVT-24",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1024,
+    "defectCount": 0
+},{
+    "eventId": "EVT-25",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1025,
+    "defectCount": 0
+},{
+    "eventId": "EVT-26",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1026,
+    "defectCount": 0
+},{
+    "eventId": "EVT-27",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1027,
+    "defectCount": 0
+},{
+    "eventId": "EVT-28",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1028,
+    "defectCount": 0
+},{
+    "eventId": "EVT-29",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1029,
+    "defectCount": 0
+},{
+    "eventId": "EVT-30",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1030,
+    "defectCount": 0
+},{
+    "eventId": "EVT-31",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1031,
+    "defectCount": 0
+},{
+    "eventId": "EVT-32",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1032,
+    "defectCount": 0
+},{
+    "eventId": "EVT-33",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1033,
+    "defectCount": 0
+},{
+    "eventId": "EVT-34",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1034,
+    "defectCount": 0
+},{
+    "eventId": "EVT-35",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1035,
+    "defectCount": 0
+},{
+    "eventId": "EVT-36",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1036,
+    "defectCount": 0
+},{
+    "eventId": "EVT-37",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1037,
+    "defectCount": 0
+},{
+    "eventId": "EVT-38",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1038,
+    "defectCount": 0
+},{
+    "eventId": "EVT-39",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1039,
+    "defectCount": 0
+},{
+    "eventId": "EVT-40",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1040,
+    "defectCount": 0
+},{
+    "eventId": "EVT-41",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1041,
+    "defectCount": 0
+},{
+    "eventId": "EVT-42",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1042,
+    "defectCount": 0
+},{
+    "eventId": "EVT-43",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1043,
+    "defectCount": 0
+},{
+    "eventId": "EVT-44",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1044,
+    "defectCount": 0
+},{
+    "eventId": "EVT-45",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1045,
+    "defectCount": 0
+},{
+    "eventId": "EVT-46",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1046,
+    "defectCount": 0
+},{
+    "eventId": "EVT-47",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1047,
+    "defectCount": 0
+},{
+    "eventId": "EVT-48",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1048,
+    "defectCount": 0
+},{
+    "eventId": "EVT-49",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1049,
+    "defectCount": 0
+},{
+    "eventId": "EVT-50",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1050,
+    "defectCount": 0
+},{
+    "eventId": "EVT-51",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1051,
+    "defectCount": 0
+},{
+    "eventId": "EVT-52",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1052,
+    "defectCount": 0
+},{
+    "eventId": "EVT-53",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1053,
+    "defectCount": 0
+},{
+    "eventId": "EVT-54",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1054,
+    "defectCount": 0
+},{
+    "eventId": "EVT-55",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1055,
+    "defectCount": 0
+},{
+    "eventId": "EVT-56",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1056,
+    "defectCount": 0
+},{
+    "eventId": "EVT-57",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1057,
+    "defectCount": 0
+},{
+    "eventId": "EVT-58",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1058,
+    "defectCount": 0
+},{
+    "eventId": "EVT-59",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1059,
+    "defectCount": 0
+},{
+    "eventId": "EVT-60",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1060,
+    "defectCount": 0
+},{
+    "eventId": "EVT-61",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1061,
+    "defectCount": 0
+},{
+    "eventId": "EVT-62",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1062,
+    "defectCount": 0
+},{
+    "eventId": "EVT-63",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1063,
+    "defectCount": 0
+},{
+    "eventId": "EVT-64",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1064,
+    "defectCount": 0
+},{
+    "eventId": "EVT-65",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1065,
+    "defectCount": 0
+},{
+    "eventId": "EVT-66",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1066,
+    "defectCount": 0
+},{
+    "eventId": "EVT-67",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1067,
+    "defectCount": 0
+},{
+    "eventId": "EVT-68",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1068,
+    "defectCount": 0
+},{
+    "eventId": "EVT-69",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1069,
+    "defectCount": 0
+},{
+    "eventId": "EVT-70",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1070,
+    "defectCount": 0
+},{
+    "eventId": "EVT-71",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1071,
+    "defectCount": 0
+},{
+    "eventId": "EVT-72",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1072,
+    "defectCount": 0
+},{
+    "eventId": "EVT-73",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1073,
+    "defectCount": 0
+},{
+    "eventId": "EVT-74",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1074,
+    "defectCount": 0
+},{
+    "eventId": "EVT-75",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1075,
+    "defectCount": 0
+},{
+    "eventId": "EVT-76",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1076,
+    "defectCount": 0
+},{
+    "eventId": "EVT-77",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1077,
+    "defectCount": 0
+},{
+    "eventId": "EVT-78",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1078,
+    "defectCount": 0
+},{
+    "eventId": "EVT-79",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1079,
+    "defectCount": 0
+},{
+    "eventId": "EVT-80",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1080,
+    "defectCount": 0
+},{
+    "eventId": "EVT-81",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1081,
+    "defectCount": 0
+},{
+    "eventId": "EVT-82",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1082,
+    "defectCount": 0
+},{
+    "eventId": "EVT-83",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1083,
+    "defectCount": 0
+},{
+    "eventId": "EVT-84",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1084,
+    "defectCount": 0
+},{
+    "eventId": "EVT-85",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1085,
+    "defectCount": 0
+},{
+    "eventId": "EVT-86",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1086,
+    "defectCount": 0
+},{
+    "eventId": "EVT-87",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1087,
+    "defectCount": 0
+},{
+    "eventId": "EVT-88",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1088,
+    "defectCount": 0
+},{
+    "eventId": "EVT-89",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1089,
+    "defectCount": 0
+},{
+    "eventId": "EVT-90",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1090,
+    "defectCount": 0
+},{
+    "eventId": "EVT-91",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1091,
+    "defectCount": 0
+},{
+    "eventId": "EVT-92",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1092,
+    "defectCount": 0
+},{
+    "eventId": "EVT-93",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1093,
+    "defectCount": 0
+},{
+    "eventId": "EVT-94",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1094,
+    "defectCount": 0
+},{
+    "eventId": "EVT-95",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1095,
+    "defectCount": 0
+},{
+    "eventId": "EVT-96",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1096,
+    "defectCount": 0
+},{
+    "eventId": "EVT-97",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1097,
+    "defectCount": 0
+},{
+    "eventId": "EVT-98",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1098,
+    "defectCount": 0
+},{
+    "eventId": "EVT-99",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1099,
+    "defectCount": 0
+},{
+    "eventId": "EVT-100",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1100,
+    "defectCount": 0
+},{
+    "eventId": "EVT-101",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1101,
+    "defectCount": 0
+},{
+    "eventId": "EVT-102",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1102,
+    "defectCount": 0
+},{
+    "eventId": "EVT-103",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1103,
+    "defectCount": 0
+},{
+    "eventId": "EVT-104",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1104,
+    "defectCount": 0
+},{
+    "eventId": "EVT-105",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1105,
+    "defectCount": 0
+},{
+    "eventId": "EVT-106",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1106,
+    "defectCount": 0
+},{
+    "eventId": "EVT-107",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1107,
+    "defectCount": 0
+},{
+    "eventId": "EVT-108",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1108,
+    "defectCount": 0
+},{
+    "eventId": "EVT-109",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1109,
+    "defectCount": 0
+},{
+    "eventId": "EVT-110",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1110,
+    "defectCount": 0
+},{
+    "eventId": "EVT-111",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1111,
+    "defectCount": 0
+},{
+    "eventId": "EVT-112",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1112,
+    "defectCount": 0
+},{
+    "eventId": "EVT-113",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1113,
+    "defectCount": 0
+},{
+    "eventId": "EVT-114",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1114,
+    "defectCount": 0
+},{
+    "eventId": "EVT-115",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1115,
+    "defectCount": 0
+},{
+    "eventId": "EVT-116",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1116,
+    "defectCount": 0
+},{
+    "eventId": "EVT-117",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1117,
+    "defectCount": 0
+},{
+    "eventId": "EVT-118",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1118,
+    "defectCount": 0
+},{
+    "eventId": "EVT-119",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1119,
+    "defectCount": 0
+},{
+    "eventId": "EVT-120",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1120,
+    "defectCount": 0
+},{
+    "eventId": "EVT-121",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1121,
+    "defectCount": 0
+},{
+    "eventId": "EVT-122",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1122,
+    "defectCount": 0
+},{
+    "eventId": "EVT-123",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1123,
+    "defectCount": 0
+},{
+    "eventId": "EVT-124",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1124,
+    "defectCount": 0
+},{
+    "eventId": "EVT-125",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1125,
+    "defectCount": 0
+},{
+    "eventId": "EVT-126",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1126,
+    "defectCount": 0
+},{
+    "eventId": "EVT-127",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1127,
+    "defectCount": 0
+},{
+    "eventId": "EVT-128",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1128,
+    "defectCount": 0
+},{
+    "eventId": "EVT-129",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1129,
+    "defectCount": 0
+},{
+    "eventId": "EVT-130",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1130,
+    "defectCount": 0
+},{
+    "eventId": "EVT-131",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1131,
+    "defectCount": 0
+},{
+    "eventId": "EVT-132",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1132,
+    "defectCount": 0
+},{
+    "eventId": "EVT-133",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1133,
+    "defectCount": 0
+},{
+    "eventId": "EVT-134",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1134,
+    "defectCount": 0
+},{
+    "eventId": "EVT-135",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1135,
+    "defectCount": 0
+},{
+    "eventId": "EVT-136",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1136,
+    "defectCount": 0
+},{
+    "eventId": "EVT-137",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1137,
+    "defectCount": 0
+},{
+    "eventId": "EVT-138",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1138,
+    "defectCount": 0
+},{
+    "eventId": "EVT-139",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1139,
+    "defectCount": 0
+},{
+    "eventId": "EVT-140",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1140,
+    "defectCount": 0
+},{
+    "eventId": "EVT-141",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1141,
+    "defectCount": 0
+},{
+    "eventId": "EVT-142",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1142,
+    "defectCount": 0
+},{
+    "eventId": "EVT-143",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1143,
+    "defectCount": 0
+},{
+    "eventId": "EVT-144",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1144,
+    "defectCount": 0
+},{
+    "eventId": "EVT-145",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1145,
+    "defectCount": 0
+},{
+    "eventId": "EVT-146",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1146,
+    "defectCount": 0
+},{
+    "eventId": "EVT-147",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1147,
+    "defectCount": 0
+},{
+    "eventId": "EVT-148",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1148,
+    "defectCount": 0
+},{
+    "eventId": "EVT-149",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1149,
+    "defectCount": 0
+},{
+    "eventId": "EVT-150",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1150,
+    "defectCount": 0
+},{
+    "eventId": "EVT-151",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1151,
+    "defectCount": 0
+},{
+    "eventId": "EVT-152",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1152,
+    "defectCount": 0
+},{
+    "eventId": "EVT-153",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1153,
+    "defectCount": 0
+},{
+    "eventId": "EVT-154",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1154,
+    "defectCount": 0
+},{
+    "eventId": "EVT-155",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1155,
+    "defectCount": 0
+},{
+    "eventId": "EVT-156",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1156,
+    "defectCount": 0
+},{
+    "eventId": "EVT-157",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1157,
+    "defectCount": 0
+},{
+    "eventId": "EVT-158",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1158,
+    "defectCount": 0
+},{
+    "eventId": "EVT-159",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1159,
+    "defectCount": 0
+},{
+    "eventId": "EVT-160",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1160,
+    "defectCount": 0
+},{
+    "eventId": "EVT-161",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1161,
+    "defectCount": 0
+},{
+    "eventId": "EVT-162",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1162,
+    "defectCount": 0
+},{
+    "eventId": "EVT-163",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1163,
+    "defectCount": 0
+},{
+    "eventId": "EVT-164",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1164,
+    "defectCount": 0
+},{
+    "eventId": "EVT-165",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1165,
+    "defectCount": 0
+},{
+    "eventId": "EVT-166",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1166,
+    "defectCount": 0
+},{
+    "eventId": "EVT-167",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1167,
+    "defectCount": 0
+},{
+    "eventId": "EVT-168",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1168,
+    "defectCount": 0
+},{
+    "eventId": "EVT-169",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1169,
+    "defectCount": 0
+},{
+    "eventId": "EVT-170",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1170,
+    "defectCount": 0
+},{
+    "eventId": "EVT-171",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1171,
+    "defectCount": 0
+},{
+    "eventId": "EVT-172",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1172,
+    "defectCount": 0
+},{
+    "eventId": "EVT-173",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1173,
+    "defectCount": 0
+},{
+    "eventId": "EVT-174",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1174,
+    "defectCount": 0
+},{
+    "eventId": "EVT-175",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1175,
+    "defectCount": 0
+},{
+    "eventId": "EVT-176",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1176,
+    "defectCount": 0
+},{
+    "eventId": "EVT-177",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1177,
+    "defectCount": 0
+},{
+    "eventId": "EVT-178",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1178,
+    "defectCount": 0
+},{
+    "eventId": "EVT-179",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1179,
+    "defectCount": 0
+},{
+    "eventId": "EVT-180",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1180,
+    "defectCount": 0
+},{
+    "eventId": "EVT-181",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1181,
+    "defectCount": 0
+},{
+    "eventId": "EVT-182",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1182,
+    "defectCount": 0
+},{
+    "eventId": "EVT-183",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1183,
+    "defectCount": 0
+},{
+    "eventId": "EVT-184",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1184,
+    "defectCount": 0
+},{
+    "eventId": "EVT-185",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1185,
+    "defectCount": 0
+},{
+    "eventId": "EVT-186",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1186,
+    "defectCount": 0
+},{
+    "eventId": "EVT-187",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1187,
+    "defectCount": 0
+},{
+    "eventId": "EVT-188",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1188,
+    "defectCount": 0
+},{
+    "eventId": "EVT-189",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1189,
+    "defectCount": 0
+},{
+    "eventId": "EVT-190",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1190,
+    "defectCount": 0
+},{
+    "eventId": "EVT-191",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1191,
+    "defectCount": 0
+},{
+    "eventId": "EVT-192",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1192,
+    "defectCount": 0
+},{
+    "eventId": "EVT-193",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1193,
+    "defectCount": 0
+},{
+    "eventId": "EVT-194",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1194,
+    "defectCount": 0
+},{
+    "eventId": "EVT-195",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1195,
+    "defectCount": 0
+},{
+    "eventId": "EVT-196",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1196,
+    "defectCount": 0
+},{
+    "eventId": "EVT-197",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1197,
+    "defectCount": 0
+},{
+    "eventId": "EVT-198",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1198,
+    "defectCount": 0
+},{
+    "eventId": "EVT-199",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1199,
+    "defectCount": 0
+},{
+    "eventId": "EVT-200",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1200,
+    "defectCount": 0
+},{
+    "eventId": "EVT-201",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1201,
+    "defectCount": 0
+},{
+    "eventId": "EVT-202",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1202,
+    "defectCount": 0
+},{
+    "eventId": "EVT-203",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1203,
+    "defectCount": 0
+},{
+    "eventId": "EVT-204",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1204,
+    "defectCount": 0
+},{
+    "eventId": "EVT-205",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1205,
+    "defectCount": 0
+},{
+    "eventId": "EVT-206",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1206,
+    "defectCount": 0
+},{
+    "eventId": "EVT-207",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1207,
+    "defectCount": 0
+},{
+    "eventId": "EVT-208",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1208,
+    "defectCount": 0
+},{
+    "eventId": "EVT-209",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1209,
+    "defectCount": 0
+},{
+    "eventId": "EVT-210",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1210,
+    "defectCount": 0
+},{
+    "eventId": "EVT-211",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1211,
+    "defectCount": 0
+},{
+    "eventId": "EVT-212",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1212,
+    "defectCount": 0
+},{
+    "eventId": "EVT-213",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1213,
+    "defectCount": 0
+},{
+    "eventId": "EVT-214",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1214,
+    "defectCount": 0
+},{
+    "eventId": "EVT-215",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1215,
+    "defectCount": 0
+},{
+    "eventId": "EVT-216",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1216,
+    "defectCount": 0
+},{
+    "eventId": "EVT-217",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1217,
+    "defectCount": 0
+},{
+    "eventId": "EVT-218",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1218,
+    "defectCount": 0
+},{
+    "eventId": "EVT-219",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1219,
+    "defectCount": 0
+},{
+    "eventId": "EVT-220",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1220,
+    "defectCount": 0
+},{
+    "eventId": "EVT-221",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1221,
+    "defectCount": 0
+},{
+    "eventId": "EVT-222",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1222,
+    "defectCount": 0
+},{
+    "eventId": "EVT-223",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1223,
+    "defectCount": 0
+},{
+    "eventId": "EVT-224",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1224,
+    "defectCount": 0
+},{
+    "eventId": "EVT-225",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1225,
+    "defectCount": 0
+},{
+    "eventId": "EVT-226",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1226,
+    "defectCount": 0
+},{
+    "eventId": "EVT-227",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1227,
+    "defectCount": 0
+},{
+    "eventId": "EVT-228",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1228,
+    "defectCount": 0
+},{
+    "eventId": "EVT-229",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1229,
+    "defectCount": 0
+},{
+    "eventId": "EVT-230",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1230,
+    "defectCount": 0
+},{
+    "eventId": "EVT-231",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1231,
+    "defectCount": 0
+},{
+    "eventId": "EVT-232",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1232,
+    "defectCount": 0
+},{
+    "eventId": "EVT-233",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1233,
+    "defectCount": 0
+},{
+    "eventId": "EVT-234",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1234,
+    "defectCount": 0
+},{
+    "eventId": "EVT-235",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1235,
+    "defectCount": 0
+},{
+    "eventId": "EVT-236",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1236,
+    "defectCount": 0
+},{
+    "eventId": "EVT-237",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1237,
+    "defectCount": 0
+},{
+    "eventId": "EVT-238",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1238,
+    "defectCount": 0
+},{
+    "eventId": "EVT-239",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1239,
+    "defectCount": 0
+},{
+    "eventId": "EVT-240",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1240,
+    "defectCount": 0
+},{
+    "eventId": "EVT-241",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1241,
+    "defectCount": 0
+},{
+    "eventId": "EVT-242",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1242,
+    "defectCount": 0
+},{
+    "eventId": "EVT-243",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1243,
+    "defectCount": 0
+},{
+    "eventId": "EVT-244",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1244,
+    "defectCount": 0
+},{
+    "eventId": "EVT-245",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1245,
+    "defectCount": 0
+},{
+    "eventId": "EVT-246",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1246,
+    "defectCount": 0
+},{
+    "eventId": "EVT-247",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1247,
+    "defectCount": 0
+},{
+    "eventId": "EVT-248",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1248,
+    "defectCount": 0
+},{
+    "eventId": "EVT-249",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1249,
+    "defectCount": 0
+},{
+    "eventId": "EVT-250",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1250,
+    "defectCount": 0
+},{
+    "eventId": "EVT-251",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1251,
+    "defectCount": 0
+},{
+    "eventId": "EVT-252",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1252,
+    "defectCount": 0
+},{
+    "eventId": "EVT-253",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1253,
+    "defectCount": 0
+},{
+    "eventId": "EVT-254",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1254,
+    "defectCount": 0
+},{
+    "eventId": "EVT-255",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1255,
+    "defectCount": 0
+},{
+    "eventId": "EVT-256",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1256,
+    "defectCount": 0
+},{
+    "eventId": "EVT-257",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1257,
+    "defectCount": 0
+},{
+    "eventId": "EVT-258",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1258,
+    "defectCount": 0
+},{
+    "eventId": "EVT-259",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1259,
+    "defectCount": 0
+},{
+    "eventId": "EVT-260",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1260,
+    "defectCount": 0
+},{
+    "eventId": "EVT-261",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1261,
+    "defectCount": 0
+},{
+    "eventId": "EVT-262",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1262,
+    "defectCount": 0
+},{
+    "eventId": "EVT-263",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1263,
+    "defectCount": 0
+},{
+    "eventId": "EVT-264",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1264,
+    "defectCount": 0
+},{
+    "eventId": "EVT-265",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1265,
+    "defectCount": 0
+},{
+    "eventId": "EVT-266",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1266,
+    "defectCount": 0
+},{
+    "eventId": "EVT-267",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1267,
+    "defectCount": 0
+},{
+    "eventId": "EVT-268",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1268,
+    "defectCount": 0
+},{
+    "eventId": "EVT-269",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1269,
+    "defectCount": 0
+},{
+    "eventId": "EVT-270",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1270,
+    "defectCount": 0
+},{
+    "eventId": "EVT-271",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1271,
+    "defectCount": 0
+},{
+    "eventId": "EVT-272",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1272,
+    "defectCount": 0
+},{
+    "eventId": "EVT-273",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1273,
+    "defectCount": 0
+},{
+    "eventId": "EVT-274",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1274,
+    "defectCount": 0
+},{
+    "eventId": "EVT-275",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1275,
+    "defectCount": 0
+},{
+    "eventId": "EVT-276",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1276,
+    "defectCount": 0
+},{
+    "eventId": "EVT-277",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1277,
+    "defectCount": 0
+},{
+    "eventId": "EVT-278",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1278,
+    "defectCount": 0
+},{
+    "eventId": "EVT-279",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1279,
+    "defectCount": 0
+},{
+    "eventId": "EVT-280",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1280,
+    "defectCount": 0
+},{
+    "eventId": "EVT-281",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1281,
+    "defectCount": 0
+},{
+    "eventId": "EVT-282",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1282,
+    "defectCount": 0
+},{
+    "eventId": "EVT-283",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1283,
+    "defectCount": 0
+},{
+    "eventId": "EVT-284",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1284,
+    "defectCount": 0
+},{
+    "eventId": "EVT-285",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1285,
+    "defectCount": 0
+},{
+    "eventId": "EVT-286",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1286,
+    "defectCount": 0
+},{
+    "eventId": "EVT-287",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1287,
+    "defectCount": 0
+},{
+    "eventId": "EVT-288",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1288,
+    "defectCount": 0
+},{
+    "eventId": "EVT-289",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1289,
+    "defectCount": 0
+},{
+    "eventId": "EVT-290",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1290,
+    "defectCount": 0
+},{
+    "eventId": "EVT-291",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1291,
+    "defectCount": 0
+},{
+    "eventId": "EVT-292",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1292,
+    "defectCount": 0
+},{
+    "eventId": "EVT-293",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1293,
+    "defectCount": 0
+},{
+    "eventId": "EVT-294",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1294,
+    "defectCount": 0
+},{
+    "eventId": "EVT-295",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1295,
+    "defectCount": 0
+},{
+    "eventId": "EVT-296",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1296,
+    "defectCount": 0
+},{
+    "eventId": "EVT-297",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1297,
+    "defectCount": 0
+},{
+    "eventId": "EVT-298",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1298,
+    "defectCount": 0
+},{
+    "eventId": "EVT-299",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1299,
+    "defectCount": 0
+},{
+    "eventId": "EVT-300",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1300,
+    "defectCount": 0
+},{
+    "eventId": "EVT-301",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1301,
+    "defectCount": 0
+},{
+    "eventId": "EVT-302",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1302,
+    "defectCount": 0
+},{
+    "eventId": "EVT-303",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1303,
+    "defectCount": 0
+},{
+    "eventId": "EVT-304",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1304,
+    "defectCount": 0
+},{
+    "eventId": "EVT-305",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1305,
+    "defectCount": 0
+},{
+    "eventId": "EVT-306",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1306,
+    "defectCount": 0
+},{
+    "eventId": "EVT-307",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1307,
+    "defectCount": 0
+},{
+    "eventId": "EVT-308",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1308,
+    "defectCount": 0
+},{
+    "eventId": "EVT-309",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1309,
+    "defectCount": 0
+},{
+    "eventId": "EVT-310",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1310,
+    "defectCount": 0
+},{
+    "eventId": "EVT-311",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1311,
+    "defectCount": 0
+},{
+    "eventId": "EVT-312",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1312,
+    "defectCount": 0
+},{
+    "eventId": "EVT-313",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1313,
+    "defectCount": 0
+},{
+    "eventId": "EVT-314",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1314,
+    "defectCount": 0
+},{
+    "eventId": "EVT-315",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1315,
+    "defectCount": 0
+},{
+    "eventId": "EVT-316",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1316,
+    "defectCount": 0
+},{
+    "eventId": "EVT-317",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1317,
+    "defectCount": 0
+},{
+    "eventId": "EVT-318",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1318,
+    "defectCount": 0
+},{
+    "eventId": "EVT-319",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1319,
+    "defectCount": 0
+},{
+    "eventId": "EVT-320",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1320,
+    "defectCount": 0
+},{
+    "eventId": "EVT-321",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1321,
+    "defectCount": 0
+},{
+    "eventId": "EVT-322",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1322,
+    "defectCount": 0
+},{
+    "eventId": "EVT-323",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1323,
+    "defectCount": 0
+},{
+    "eventId": "EVT-324",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1324,
+    "defectCount": 0
+},{
+    "eventId": "EVT-325",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1325,
+    "defectCount": 0
+},{
+    "eventId": "EVT-326",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1326,
+    "defectCount": 0
+},{
+    "eventId": "EVT-327",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1327,
+    "defectCount": 0
+},{
+    "eventId": "EVT-328",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1328,
+    "defectCount": 0
+},{
+    "eventId": "EVT-329",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1329,
+    "defectCount": 0
+},{
+    "eventId": "EVT-330",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1330,
+    "defectCount": 0
+},{
+    "eventId": "EVT-331",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1331,
+    "defectCount": 0
+},{
+    "eventId": "EVT-332",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1332,
+    "defectCount": 0
+},{
+    "eventId": "EVT-333",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1333,
+    "defectCount": 0
+},{
+    "eventId": "EVT-334",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1334,
+    "defectCount": 0
+},{
+    "eventId": "EVT-335",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1335,
+    "defectCount": 0
+},{
+    "eventId": "EVT-336",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1336,
+    "defectCount": 0
+},{
+    "eventId": "EVT-337",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1337,
+    "defectCount": 0
+},{
+    "eventId": "EVT-338",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1338,
+    "defectCount": 0
+},{
+    "eventId": "EVT-339",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1339,
+    "defectCount": 0
+},{
+    "eventId": "EVT-340",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1340,
+    "defectCount": 0
+},{
+    "eventId": "EVT-341",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1341,
+    "defectCount": 0
+},{
+    "eventId": "EVT-342",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1342,
+    "defectCount": 0
+},{
+    "eventId": "EVT-343",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1343,
+    "defectCount": 0
+},{
+    "eventId": "EVT-344",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1344,
+    "defectCount": 0
+},{
+    "eventId": "EVT-345",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1345,
+    "defectCount": 0
+},{
+    "eventId": "EVT-346",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1346,
+    "defectCount": 0
+},{
+    "eventId": "EVT-347",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1347,
+    "defectCount": 0
+},{
+    "eventId": "EVT-348",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1348,
+    "defectCount": 0
+},{
+    "eventId": "EVT-349",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1349,
+    "defectCount": 0
+},{
+    "eventId": "EVT-350",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1350,
+    "defectCount": 0
+},{
+    "eventId": "EVT-351",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1351,
+    "defectCount": 0
+},{
+    "eventId": "EVT-352",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1352,
+    "defectCount": 0
+},{
+    "eventId": "EVT-353",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1353,
+    "defectCount": 0
+},{
+    "eventId": "EVT-354",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1354,
+    "defectCount": 0
+},{
+    "eventId": "EVT-355",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1355,
+    "defectCount": 0
+},{
+    "eventId": "EVT-356",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1356,
+    "defectCount": 0
+},{
+    "eventId": "EVT-357",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1357,
+    "defectCount": 0
+},{
+    "eventId": "EVT-358",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1358,
+    "defectCount": 0
+},{
+    "eventId": "EVT-359",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1359,
+    "defectCount": 0
+},{
+    "eventId": "EVT-360",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1360,
+    "defectCount": 0
+},{
+    "eventId": "EVT-361",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1361,
+    "defectCount": 0
+},{
+    "eventId": "EVT-362",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1362,
+    "defectCount": 0
+},{
+    "eventId": "EVT-363",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1363,
+    "defectCount": 0
+},{
+    "eventId": "EVT-364",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1364,
+    "defectCount": 0
+},{
+    "eventId": "EVT-365",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1365,
+    "defectCount": 0
+},{
+    "eventId": "EVT-366",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1366,
+    "defectCount": 0
+},{
+    "eventId": "EVT-367",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1367,
+    "defectCount": 0
+},{
+    "eventId": "EVT-368",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1368,
+    "defectCount": 0
+},{
+    "eventId": "EVT-369",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1369,
+    "defectCount": 0
+},{
+    "eventId": "EVT-370",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1370,
+    "defectCount": 0
+},{
+    "eventId": "EVT-371",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1371,
+    "defectCount": 0
+},{
+    "eventId": "EVT-372",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1372,
+    "defectCount": 0
+},{
+    "eventId": "EVT-373",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1373,
+    "defectCount": 0
+},{
+    "eventId": "EVT-374",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1374,
+    "defectCount": 0
+},{
+    "eventId": "EVT-375",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1375,
+    "defectCount": 0
+},{
+    "eventId": "EVT-376",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1376,
+    "defectCount": 0
+},{
+    "eventId": "EVT-377",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1377,
+    "defectCount": 0
+},{
+    "eventId": "EVT-378",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1378,
+    "defectCount": 0
+},{
+    "eventId": "EVT-379",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1379,
+    "defectCount": 0
+},{
+    "eventId": "EVT-380",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1380,
+    "defectCount": 0
+},{
+    "eventId": "EVT-381",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1381,
+    "defectCount": 0
+},{
+    "eventId": "EVT-382",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1382,
+    "defectCount": 0
+},{
+    "eventId": "EVT-383",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1383,
+    "defectCount": 0
+},{
+    "eventId": "EVT-384",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1384,
+    "defectCount": 0
+},{
+    "eventId": "EVT-385",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1385,
+    "defectCount": 0
+},{
+    "eventId": "EVT-386",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1386,
+    "defectCount": 0
+},{
+    "eventId": "EVT-387",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1387,
+    "defectCount": 0
+},{
+    "eventId": "EVT-388",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1388,
+    "defectCount": 0
+},{
+    "eventId": "EVT-389",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1389,
+    "defectCount": 0
+},{
+    "eventId": "EVT-390",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1390,
+    "defectCount": 0
+},{
+    "eventId": "EVT-391",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1391,
+    "defectCount": 0
+},{
+    "eventId": "EVT-392",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1392,
+    "defectCount": 0
+},{
+    "eventId": "EVT-393",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1393,
+    "defectCount": 0
+},{
+    "eventId": "EVT-394",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1394,
+    "defectCount": 0
+},{
+    "eventId": "EVT-395",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1395,
+    "defectCount": 0
+},{
+    "eventId": "EVT-396",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1396,
+    "defectCount": 0
+},{
+    "eventId": "EVT-397",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1397,
+    "defectCount": 0
+},{
+    "eventId": "EVT-398",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1398,
+    "defectCount": 0
+},{
+    "eventId": "EVT-399",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1399,
+    "defectCount": 0
+},{
+    "eventId": "EVT-400",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1400,
+    "defectCount": 0
+},{
+    "eventId": "EVT-401",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1401,
+    "defectCount": 0
+},{
+    "eventId": "EVT-402",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1402,
+    "defectCount": 0
+},{
+    "eventId": "EVT-403",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1403,
+    "defectCount": 0
+},{
+    "eventId": "EVT-404",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1404,
+    "defectCount": 0
+},{
+    "eventId": "EVT-405",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1405,
+    "defectCount": 0
+},{
+    "eventId": "EVT-406",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1406,
+    "defectCount": 0
+},{
+    "eventId": "EVT-407",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1407,
+    "defectCount": 0
+},{
+    "eventId": "EVT-408",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1408,
+    "defectCount": 0
+},{
+    "eventId": "EVT-409",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1409,
+    "defectCount": 0
+},{
+    "eventId": "EVT-410",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1410,
+    "defectCount": 0
+},{
+    "eventId": "EVT-411",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1411,
+    "defectCount": 0
+},{
+    "eventId": "EVT-412",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1412,
+    "defectCount": 0
+},{
+    "eventId": "EVT-413",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1413,
+    "defectCount": 0
+},{
+    "eventId": "EVT-414",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1414,
+    "defectCount": 0
+},{
+    "eventId": "EVT-415",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1415,
+    "defectCount": 0
+},{
+    "eventId": "EVT-416",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1416,
+    "defectCount": 0
+},{
+    "eventId": "EVT-417",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1417,
+    "defectCount": 0
+},{
+    "eventId": "EVT-418",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1418,
+    "defectCount": 0
+},{
+    "eventId": "EVT-419",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1419,
+    "defectCount": 0
+},{
+    "eventId": "EVT-420",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1420,
+    "defectCount": 0
+},{
+    "eventId": "EVT-421",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1421,
+    "defectCount": 0
+},{
+    "eventId": "EVT-422",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1422,
+    "defectCount": 0
+},{
+    "eventId": "EVT-423",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1423,
+    "defectCount": 0
+},{
+    "eventId": "EVT-424",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1424,
+    "defectCount": 0
+},{
+    "eventId": "EVT-425",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1425,
+    "defectCount": 0
+},{
+    "eventId": "EVT-426",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1426,
+    "defectCount": 0
+},{
+    "eventId": "EVT-427",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1427,
+    "defectCount": 0
+},{
+    "eventId": "EVT-428",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1428,
+    "defectCount": 0
+},{
+    "eventId": "EVT-429",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1429,
+    "defectCount": 0
+},{
+    "eventId": "EVT-430",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1430,
+    "defectCount": 0
+},{
+    "eventId": "EVT-431",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1431,
+    "defectCount": 0
+},{
+    "eventId": "EVT-432",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1432,
+    "defectCount": 0
+},{
+    "eventId": "EVT-433",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1433,
+    "defectCount": 0
+},{
+    "eventId": "EVT-434",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1434,
+    "defectCount": 0
+},{
+    "eventId": "EVT-435",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1435,
+    "defectCount": 0
+},{
+    "eventId": "EVT-436",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1436,
+    "defectCount": 0
+},{
+    "eventId": "EVT-437",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1437,
+    "defectCount": 0
+},{
+    "eventId": "EVT-438",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1438,
+    "defectCount": 0
+},{
+    "eventId": "EVT-439",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1439,
+    "defectCount": 0
+},{
+    "eventId": "EVT-440",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1440,
+    "defectCount": 0
+},{
+    "eventId": "EVT-441",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1441,
+    "defectCount": 0
+},{
+    "eventId": "EVT-442",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1442,
+    "defectCount": 0
+},{
+    "eventId": "EVT-443",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1443,
+    "defectCount": 0
+},{
+    "eventId": "EVT-444",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1444,
+    "defectCount": 0
+},{
+    "eventId": "EVT-445",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1445,
+    "defectCount": 0
+},{
+    "eventId": "EVT-446",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1446,
+    "defectCount": 0
+},{
+    "eventId": "EVT-447",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1447,
+    "defectCount": 0
+},{
+    "eventId": "EVT-448",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1448,
+    "defectCount": 0
+},{
+    "eventId": "EVT-449",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1449,
+    "defectCount": 0
+},{
+    "eventId": "EVT-450",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1450,
+    "defectCount": 0
+},{
+    "eventId": "EVT-451",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1451,
+    "defectCount": 0
+},{
+    "eventId": "EVT-452",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1452,
+    "defectCount": 0
+},{
+    "eventId": "EVT-453",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1453,
+    "defectCount": 0
+},{
+    "eventId": "EVT-454",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1454,
+    "defectCount": 0
+},{
+    "eventId": "EVT-455",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1455,
+    "defectCount": 0
+},{
+    "eventId": "EVT-456",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1456,
+    "defectCount": 0
+},{
+    "eventId": "EVT-457",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1457,
+    "defectCount": 0
+},{
+    "eventId": "EVT-458",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1458,
+    "defectCount": 0
+},{
+    "eventId": "EVT-459",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1459,
+    "defectCount": 0
+},{
+    "eventId": "EVT-460",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1460,
+    "defectCount": 0
+},{
+    "eventId": "EVT-461",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1461,
+    "defectCount": 0
+},{
+    "eventId": "EVT-462",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1462,
+    "defectCount": 0
+},{
+    "eventId": "EVT-463",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1463,
+    "defectCount": 0
+},{
+    "eventId": "EVT-464",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1464,
+    "defectCount": 0
+},{
+    "eventId": "EVT-465",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1465,
+    "defectCount": 0
+},{
+    "eventId": "EVT-466",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1466,
+    "defectCount": 0
+},{
+    "eventId": "EVT-467",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1467,
+    "defectCount": 0
+},{
+    "eventId": "EVT-468",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1468,
+    "defectCount": 0
+},{
+    "eventId": "EVT-469",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1469,
+    "defectCount": 0
+},{
+    "eventId": "EVT-470",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1470,
+    "defectCount": 0
+},{
+    "eventId": "EVT-471",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1471,
+    "defectCount": 0
+},{
+    "eventId": "EVT-472",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1472,
+    "defectCount": 0
+},{
+    "eventId": "EVT-473",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1473,
+    "defectCount": 0
+},{
+    "eventId": "EVT-474",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1474,
+    "defectCount": 0
+},{
+    "eventId": "EVT-475",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1475,
+    "defectCount": 0
+},{
+    "eventId": "EVT-476",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1476,
+    "defectCount": 0
+},{
+    "eventId": "EVT-477",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1477,
+    "defectCount": 0
+},{
+    "eventId": "EVT-478",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1478,
+    "defectCount": 0
+},{
+    "eventId": "EVT-479",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1479,
+    "defectCount": 0
+},{
+    "eventId": "EVT-480",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1480,
+    "defectCount": 0
+},{
+    "eventId": "EVT-481",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1481,
+    "defectCount": 0
+},{
+    "eventId": "EVT-482",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1482,
+    "defectCount": 0
+},{
+    "eventId": "EVT-483",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1483,
+    "defectCount": 0
+},{
+    "eventId": "EVT-484",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1484,
+    "defectCount": 0
+},{
+    "eventId": "EVT-485",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1485,
+    "defectCount": 0
+},{
+    "eventId": "EVT-486",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1486,
+    "defectCount": 0
+},{
+    "eventId": "EVT-487",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1487,
+    "defectCount": 0
+},{
+    "eventId": "EVT-488",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1488,
+    "defectCount": 0
+},{
+    "eventId": "EVT-489",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1489,
+    "defectCount": 0
+},{
+    "eventId": "EVT-490",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1490,
+    "defectCount": 0
+},{
+    "eventId": "EVT-491",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1491,
+    "defectCount": 0
+},{
+    "eventId": "EVT-492",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1492,
+    "defectCount": 0
+},{
+    "eventId": "EVT-493",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1493,
+    "defectCount": 0
+},{
+    "eventId": "EVT-494",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1494,
+    "defectCount": 0
+},{
+    "eventId": "EVT-495",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1495,
+    "defectCount": 0
+},{
+    "eventId": "EVT-496",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1496,
+    "defectCount": 0
+},{
+    "eventId": "EVT-497",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1497,
+    "defectCount": 0
+},{
+    "eventId": "EVT-498",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1498,
+    "defectCount": 0
+},{
+    "eventId": "EVT-499",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1499,
+    "defectCount": 0
+},{
+    "eventId": "EVT-500",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1500,
+    "defectCount": 0
+},{
+    "eventId": "EVT-501",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1501,
+    "defectCount": 0
+},{
+    "eventId": "EVT-502",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1502,
+    "defectCount": 0
+},{
+    "eventId": "EVT-503",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1503,
+    "defectCount": 0
+},{
+    "eventId": "EVT-504",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1504,
+    "defectCount": 0
+},{
+    "eventId": "EVT-505",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1505,
+    "defectCount": 0
+},{
+    "eventId": "EVT-506",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1506,
+    "defectCount": 0
+},{
+    "eventId": "EVT-507",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1507,
+    "defectCount": 0
+},{
+    "eventId": "EVT-508",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1508,
+    "defectCount": 0
+},{
+    "eventId": "EVT-509",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1509,
+    "defectCount": 0
+},{
+    "eventId": "EVT-510",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1510,
+    "defectCount": 0
+},{
+    "eventId": "EVT-511",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1511,
+    "defectCount": 0
+},{
+    "eventId": "EVT-512",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1512,
+    "defectCount": 0
+},{
+    "eventId": "EVT-513",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1513,
+    "defectCount": 0
+},{
+    "eventId": "EVT-514",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1514,
+    "defectCount": 0
+},{
+    "eventId": "EVT-515",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1515,
+    "defectCount": 0
+},{
+    "eventId": "EVT-516",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1516,
+    "defectCount": 0
+},{
+    "eventId": "EVT-517",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1517,
+    "defectCount": 0
+},{
+    "eventId": "EVT-518",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1518,
+    "defectCount": 0
+},{
+    "eventId": "EVT-519",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1519,
+    "defectCount": 0
+},{
+    "eventId": "EVT-520",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1520,
+    "defectCount": 0
+},{
+    "eventId": "EVT-521",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1521,
+    "defectCount": 0
+},{
+    "eventId": "EVT-522",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1522,
+    "defectCount": 0
+},{
+    "eventId": "EVT-523",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1523,
+    "defectCount": 0
+},{
+    "eventId": "EVT-524",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1524,
+    "defectCount": 0
+},{
+    "eventId": "EVT-525",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1525,
+    "defectCount": 0
+},{
+    "eventId": "EVT-526",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1526,
+    "defectCount": 0
+},{
+    "eventId": "EVT-527",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1527,
+    "defectCount": 0
+},{
+    "eventId": "EVT-528",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1528,
+    "defectCount": 0
+},{
+    "eventId": "EVT-529",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1529,
+    "defectCount": 0
+},{
+    "eventId": "EVT-530",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1530,
+    "defectCount": 0
+},{
+    "eventId": "EVT-531",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1531,
+    "defectCount": 0
+},{
+    "eventId": "EVT-532",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1532,
+    "defectCount": 0
+},{
+    "eventId": "EVT-533",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1533,
+    "defectCount": 0
+},{
+    "eventId": "EVT-534",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1534,
+    "defectCount": 0
+},{
+    "eventId": "EVT-535",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1535,
+    "defectCount": 0
+},{
+    "eventId": "EVT-536",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1536,
+    "defectCount": 0
+},{
+    "eventId": "EVT-537",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1537,
+    "defectCount": 0
+},{
+    "eventId": "EVT-538",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1538,
+    "defectCount": 0
+},{
+    "eventId": "EVT-539",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1539,
+    "defectCount": 0
+},{
+    "eventId": "EVT-540",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1540,
+    "defectCount": 0
+},{
+    "eventId": "EVT-541",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1541,
+    "defectCount": 0
+},{
+    "eventId": "EVT-542",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1542,
+    "defectCount": 0
+},{
+    "eventId": "EVT-543",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1543,
+    "defectCount": 0
+},{
+    "eventId": "EVT-544",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1544,
+    "defectCount": 0
+},{
+    "eventId": "EVT-545",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1545,
+    "defectCount": 0
+},{
+    "eventId": "EVT-546",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1546,
+    "defectCount": 0
+},{
+    "eventId": "EVT-547",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1547,
+    "defectCount": 0
+},{
+    "eventId": "EVT-548",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1548,
+    "defectCount": 0
+},{
+    "eventId": "EVT-549",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1549,
+    "defectCount": 0
+},{
+    "eventId": "EVT-550",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1550,
+    "defectCount": 0
+},{
+    "eventId": "EVT-551",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1551,
+    "defectCount": 0
+},{
+    "eventId": "EVT-552",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1552,
+    "defectCount": 0
+},{
+    "eventId": "EVT-553",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1553,
+    "defectCount": 0
+},{
+    "eventId": "EVT-554",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1554,
+    "defectCount": 0
+},{
+    "eventId": "EVT-555",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1555,
+    "defectCount": 0
+},{
+    "eventId": "EVT-556",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1556,
+    "defectCount": 0
+},{
+    "eventId": "EVT-557",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1557,
+    "defectCount": 0
+},{
+    "eventId": "EVT-558",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1558,
+    "defectCount": 0
+},{
+    "eventId": "EVT-559",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1559,
+    "defectCount": 0
+},{
+    "eventId": "EVT-560",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1560,
+    "defectCount": 0
+},{
+    "eventId": "EVT-561",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1561,
+    "defectCount": 0
+},{
+    "eventId": "EVT-562",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1562,
+    "defectCount": 0
+},{
+    "eventId": "EVT-563",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1563,
+    "defectCount": 0
+},{
+    "eventId": "EVT-564",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1564,
+    "defectCount": 0
+},{
+    "eventId": "EVT-565",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1565,
+    "defectCount": 0
+},{
+    "eventId": "EVT-566",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1566,
+    "defectCount": 0
+},{
+    "eventId": "EVT-567",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1567,
+    "defectCount": 0
+},{
+    "eventId": "EVT-568",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1568,
+    "defectCount": 0
+},{
+    "eventId": "EVT-569",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1569,
+    "defectCount": 0
+},{
+    "eventId": "EVT-570",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1570,
+    "defectCount": 0
+},{
+    "eventId": "EVT-571",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1571,
+    "defectCount": 0
+},{
+    "eventId": "EVT-572",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1572,
+    "defectCount": 0
+},{
+    "eventId": "EVT-573",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1573,
+    "defectCount": 0
+},{
+    "eventId": "EVT-574",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1574,
+    "defectCount": 0
+},{
+    "eventId": "EVT-575",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1575,
+    "defectCount": 0
+},{
+    "eventId": "EVT-576",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1576,
+    "defectCount": 0
+},{
+    "eventId": "EVT-577",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1577,
+    "defectCount": 0
+},{
+    "eventId": "EVT-578",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1578,
+    "defectCount": 0
+},{
+    "eventId": "EVT-579",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1579,
+    "defectCount": 0
+},{
+    "eventId": "EVT-580",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1580,
+    "defectCount": 0
+},{
+    "eventId": "EVT-581",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1581,
+    "defectCount": 0
+},{
+    "eventId": "EVT-582",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1582,
+    "defectCount": 0
+},{
+    "eventId": "EVT-583",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1583,
+    "defectCount": 0
+},{
+    "eventId": "EVT-584",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1584,
+    "defectCount": 0
+},{
+    "eventId": "EVT-585",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1585,
+    "defectCount": 0
+},{
+    "eventId": "EVT-586",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1586,
+    "defectCount": 0
+},{
+    "eventId": "EVT-587",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1587,
+    "defectCount": 0
+},{
+    "eventId": "EVT-588",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1588,
+    "defectCount": 0
+},{
+    "eventId": "EVT-589",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1589,
+    "defectCount": 0
+},{
+    "eventId": "EVT-590",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1590,
+    "defectCount": 0
+},{
+    "eventId": "EVT-591",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1591,
+    "defectCount": 0
+},{
+    "eventId": "EVT-592",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1592,
+    "defectCount": 0
+},{
+    "eventId": "EVT-593",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1593,
+    "defectCount": 0
+},{
+    "eventId": "EVT-594",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1594,
+    "defectCount": 0
+},{
+    "eventId": "EVT-595",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1595,
+    "defectCount": 0
+},{
+    "eventId": "EVT-596",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1596,
+    "defectCount": 0
+},{
+    "eventId": "EVT-597",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1597,
+    "defectCount": 0
+},{
+    "eventId": "EVT-598",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1598,
+    "defectCount": 0
+},{
+    "eventId": "EVT-599",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1599,
+    "defectCount": 0
+},{
+    "eventId": "EVT-600",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1600,
+    "defectCount": 0
+},{
+    "eventId": "EVT-601",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1601,
+    "defectCount": 0
+},{
+    "eventId": "EVT-602",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1602,
+    "defectCount": 0
+},{
+    "eventId": "EVT-603",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1603,
+    "defectCount": 0
+},{
+    "eventId": "EVT-604",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1604,
+    "defectCount": 0
+},{
+    "eventId": "EVT-605",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1605,
+    "defectCount": 0
+},{
+    "eventId": "EVT-606",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1606,
+    "defectCount": 0
+},{
+    "eventId": "EVT-607",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1607,
+    "defectCount": 0
+},{
+    "eventId": "EVT-608",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1608,
+    "defectCount": 0
+},{
+    "eventId": "EVT-609",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1609,
+    "defectCount": 0
+},{
+    "eventId": "EVT-610",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1610,
+    "defectCount": 0
+},{
+    "eventId": "EVT-611",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1611,
+    "defectCount": 0
+},{
+    "eventId": "EVT-612",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1612,
+    "defectCount": 0
+},{
+    "eventId": "EVT-613",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1613,
+    "defectCount": 0
+},{
+    "eventId": "EVT-614",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1614,
+    "defectCount": 0
+},{
+    "eventId": "EVT-615",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1615,
+    "defectCount": 0
+},{
+    "eventId": "EVT-616",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1616,
+    "defectCount": 0
+},{
+    "eventId": "EVT-617",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1617,
+    "defectCount": 0
+},{
+    "eventId": "EVT-618",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1618,
+    "defectCount": 0
+},{
+    "eventId": "EVT-619",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1619,
+    "defectCount": 0
+},{
+    "eventId": "EVT-620",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1620,
+    "defectCount": 0
+},{
+    "eventId": "EVT-621",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1621,
+    "defectCount": 0
+},{
+    "eventId": "EVT-622",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1622,
+    "defectCount": 0
+},{
+    "eventId": "EVT-623",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1623,
+    "defectCount": 0
+},{
+    "eventId": "EVT-624",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1624,
+    "defectCount": 0
+},{
+    "eventId": "EVT-625",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1625,
+    "defectCount": 0
+},{
+    "eventId": "EVT-626",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1626,
+    "defectCount": 0
+},{
+    "eventId": "EVT-627",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1627,
+    "defectCount": 0
+},{
+    "eventId": "EVT-628",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1628,
+    "defectCount": 0
+},{
+    "eventId": "EVT-629",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1629,
+    "defectCount": 0
+},{
+    "eventId": "EVT-630",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1630,
+    "defectCount": 0
+},{
+    "eventId": "EVT-631",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1631,
+    "defectCount": 0
+},{
+    "eventId": "EVT-632",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1632,
+    "defectCount": 0
+},{
+    "eventId": "EVT-633",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1633,
+    "defectCount": 0
+},{
+    "eventId": "EVT-634",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1634,
+    "defectCount": 0
+},{
+    "eventId": "EVT-635",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1635,
+    "defectCount": 0
+},{
+    "eventId": "EVT-636",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1636,
+    "defectCount": 0
+},{
+    "eventId": "EVT-637",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1637,
+    "defectCount": 0
+},{
+    "eventId": "EVT-638",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1638,
+    "defectCount": 0
+},{
+    "eventId": "EVT-639",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1639,
+    "defectCount": 0
+},{
+    "eventId": "EVT-640",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1640,
+    "defectCount": 0
+},{
+    "eventId": "EVT-641",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1641,
+    "defectCount": 0
+},{
+    "eventId": "EVT-642",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1642,
+    "defectCount": 0
+},{
+    "eventId": "EVT-643",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1643,
+    "defectCount": 0
+},{
+    "eventId": "EVT-644",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1644,
+    "defectCount": 0
+},{
+    "eventId": "EVT-645",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1645,
+    "defectCount": 0
+},{
+    "eventId": "EVT-646",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1646,
+    "defectCount": 0
+},{
+    "eventId": "EVT-647",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1647,
+    "defectCount": 0
+},{
+    "eventId": "EVT-648",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1648,
+    "defectCount": 0
+},{
+    "eventId": "EVT-649",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1649,
+    "defectCount": 0
+},{
+    "eventId": "EVT-650",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1650,
+    "defectCount": 0
+},{
+    "eventId": "EVT-651",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1651,
+    "defectCount": 0
+},{
+    "eventId": "EVT-652",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1652,
+    "defectCount": 0
+},{
+    "eventId": "EVT-653",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1653,
+    "defectCount": 0
+},{
+    "eventId": "EVT-654",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1654,
+    "defectCount": 0
+},{
+    "eventId": "EVT-655",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1655,
+    "defectCount": 0
+},{
+    "eventId": "EVT-656",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1656,
+    "defectCount": 0
+},{
+    "eventId": "EVT-657",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1657,
+    "defectCount": 0
+},{
+    "eventId": "EVT-658",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1658,
+    "defectCount": 0
+},{
+    "eventId": "EVT-659",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1659,
+    "defectCount": 0
+},{
+    "eventId": "EVT-660",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1660,
+    "defectCount": 0
+},{
+    "eventId": "EVT-661",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1661,
+    "defectCount": 0
+},{
+    "eventId": "EVT-662",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1662,
+    "defectCount": 0
+},{
+    "eventId": "EVT-663",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1663,
+    "defectCount": 0
+},{
+    "eventId": "EVT-664",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1664,
+    "defectCount": 0
+},{
+    "eventId": "EVT-665",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1665,
+    "defectCount": 0
+},{
+    "eventId": "EVT-666",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1666,
+    "defectCount": 0
+},{
+    "eventId": "EVT-667",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1667,
+    "defectCount": 0
+},{
+    "eventId": "EVT-668",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1668,
+    "defectCount": 0
+},{
+    "eventId": "EVT-669",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1669,
+    "defectCount": 0
+},{
+    "eventId": "EVT-670",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1670,
+    "defectCount": 0
+},{
+    "eventId": "EVT-671",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1671,
+    "defectCount": 0
+},{
+    "eventId": "EVT-672",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1672,
+    "defectCount": 0
+},{
+    "eventId": "EVT-673",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1673,
+    "defectCount": 0
+},{
+    "eventId": "EVT-674",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1674,
+    "defectCount": 0
+},{
+    "eventId": "EVT-675",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1675,
+    "defectCount": 0
+},{
+    "eventId": "EVT-676",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1676,
+    "defectCount": 0
+},{
+    "eventId": "EVT-677",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1677,
+    "defectCount": 0
+},{
+    "eventId": "EVT-678",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1678,
+    "defectCount": 0
+},{
+    "eventId": "EVT-679",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1679,
+    "defectCount": 0
+},{
+    "eventId": "EVT-680",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1680,
+    "defectCount": 0
+},{
+    "eventId": "EVT-681",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1681,
+    "defectCount": 0
+},{
+    "eventId": "EVT-682",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1682,
+    "defectCount": 0
+},{
+    "eventId": "EVT-683",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1683,
+    "defectCount": 0
+},{
+    "eventId": "EVT-684",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1684,
+    "defectCount": 0
+},{
+    "eventId": "EVT-685",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1685,
+    "defectCount": 0
+},{
+    "eventId": "EVT-686",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1686,
+    "defectCount": 0
+},{
+    "eventId": "EVT-687",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1687,
+    "defectCount": 0
+},{
+    "eventId": "EVT-688",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1688,
+    "defectCount": 0
+},{
+    "eventId": "EVT-689",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1689,
+    "defectCount": 0
+},{
+    "eventId": "EVT-690",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1690,
+    "defectCount": 0
+},{
+    "eventId": "EVT-691",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1691,
+    "defectCount": 0
+},{
+    "eventId": "EVT-692",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1692,
+    "defectCount": 0
+},{
+    "eventId": "EVT-693",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1693,
+    "defectCount": 0
+},{
+    "eventId": "EVT-694",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1694,
+    "defectCount": 0
+},{
+    "eventId": "EVT-695",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1695,
+    "defectCount": 0
+},{
+    "eventId": "EVT-696",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1696,
+    "defectCount": 0
+},{
+    "eventId": "EVT-697",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1697,
+    "defectCount": 0
+},{
+    "eventId": "EVT-698",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1698,
+    "defectCount": 0
+},{
+    "eventId": "EVT-699",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1699,
+    "defectCount": 0
+},{
+    "eventId": "EVT-700",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1700,
+    "defectCount": 0
+},{
+    "eventId": "EVT-701",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1701,
+    "defectCount": 0
+},{
+    "eventId": "EVT-702",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1702,
+    "defectCount": 0
+},{
+    "eventId": "EVT-703",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1703,
+    "defectCount": 0
+},{
+    "eventId": "EVT-704",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1704,
+    "defectCount": 0
+},{
+    "eventId": "EVT-705",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1705,
+    "defectCount": 0
+},{
+    "eventId": "EVT-706",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1706,
+    "defectCount": 0
+},{
+    "eventId": "EVT-707",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1707,
+    "defectCount": 0
+},{
+    "eventId": "EVT-708",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1708,
+    "defectCount": 0
+},{
+    "eventId": "EVT-709",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1709,
+    "defectCount": 0
+},{
+    "eventId": "EVT-710",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1710,
+    "defectCount": 0
+},{
+    "eventId": "EVT-711",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1711,
+    "defectCount": 0
+},{
+    "eventId": "EVT-712",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1712,
+    "defectCount": 0
+},{
+    "eventId": "EVT-713",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1713,
+    "defectCount": 0
+},{
+    "eventId": "EVT-714",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1714,
+    "defectCount": 0
+},{
+    "eventId": "EVT-715",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1715,
+    "defectCount": 0
+},{
+    "eventId": "EVT-716",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1716,
+    "defectCount": 0
+},{
+    "eventId": "EVT-717",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1717,
+    "defectCount": 0
+},{
+    "eventId": "EVT-718",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1718,
+    "defectCount": 0
+},{
+    "eventId": "EVT-719",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1719,
+    "defectCount": 0
+},{
+    "eventId": "EVT-720",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1720,
+    "defectCount": 0
+},{
+    "eventId": "EVT-721",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1721,
+    "defectCount": 0
+},{
+    "eventId": "EVT-722",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1722,
+    "defectCount": 0
+},{
+    "eventId": "EVT-723",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1723,
+    "defectCount": 0
+},{
+    "eventId": "EVT-724",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1724,
+    "defectCount": 0
+},{
+    "eventId": "EVT-725",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1725,
+    "defectCount": 0
+},{
+    "eventId": "EVT-726",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1726,
+    "defectCount": 0
+},{
+    "eventId": "EVT-727",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1727,
+    "defectCount": 0
+},{
+    "eventId": "EVT-728",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1728,
+    "defectCount": 0
+},{
+    "eventId": "EVT-729",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1729,
+    "defectCount": 0
+},{
+    "eventId": "EVT-730",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1730,
+    "defectCount": 0
+},{
+    "eventId": "EVT-731",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1731,
+    "defectCount": 0
+},{
+    "eventId": "EVT-732",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1732,
+    "defectCount": 0
+},{
+    "eventId": "EVT-733",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1733,
+    "defectCount": 0
+},{
+    "eventId": "EVT-734",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1734,
+    "defectCount": 0
+},{
+    "eventId": "EVT-735",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1735,
+    "defectCount": 0
+},{
+    "eventId": "EVT-736",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1736,
+    "defectCount": 0
+},{
+    "eventId": "EVT-737",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1737,
+    "defectCount": 0
+},{
+    "eventId": "EVT-738",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1738,
+    "defectCount": 0
+},{
+    "eventId": "EVT-739",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1739,
+    "defectCount": 0
+},{
+    "eventId": "EVT-740",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1740,
+    "defectCount": 0
+},{
+    "eventId": "EVT-741",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1741,
+    "defectCount": 0
+},{
+    "eventId": "EVT-742",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1742,
+    "defectCount": 0
+},{
+    "eventId": "EVT-743",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1743,
+    "defectCount": 0
+},{
+    "eventId": "EVT-744",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1744,
+    "defectCount": 0
+},{
+    "eventId": "EVT-745",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1745,
+    "defectCount": 0
+},{
+    "eventId": "EVT-746",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1746,
+    "defectCount": 0
+},{
+    "eventId": "EVT-747",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1747,
+    "defectCount": 0
+},{
+    "eventId": "EVT-748",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1748,
+    "defectCount": 0
+},{
+    "eventId": "EVT-749",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1749,
+    "defectCount": 0
+},{
+    "eventId": "EVT-750",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1750,
+    "defectCount": 0
+},{
+    "eventId": "EVT-751",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1751,
+    "defectCount": 0
+},{
+    "eventId": "EVT-752",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1752,
+    "defectCount": 0
+},{
+    "eventId": "EVT-753",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1753,
+    "defectCount": 0
+},{
+    "eventId": "EVT-754",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1754,
+    "defectCount": 0
+},{
+    "eventId": "EVT-755",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1755,
+    "defectCount": 0
+},{
+    "eventId": "EVT-756",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1756,
+    "defectCount": 0
+},{
+    "eventId": "EVT-757",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1757,
+    "defectCount": 0
+},{
+    "eventId": "EVT-758",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1758,
+    "defectCount": 0
+},{
+    "eventId": "EVT-759",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1759,
+    "defectCount": 0
+},{
+    "eventId": "EVT-760",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1760,
+    "defectCount": 0
+},{
+    "eventId": "EVT-761",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1761,
+    "defectCount": 0
+},{
+    "eventId": "EVT-762",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1762,
+    "defectCount": 0
+},{
+    "eventId": "EVT-763",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1763,
+    "defectCount": 0
+},{
+    "eventId": "EVT-764",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1764,
+    "defectCount": 0
+},{
+    "eventId": "EVT-765",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1765,
+    "defectCount": 0
+},{
+    "eventId": "EVT-766",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1766,
+    "defectCount": 0
+},{
+    "eventId": "EVT-767",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1767,
+    "defectCount": 0
+},{
+    "eventId": "EVT-768",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1768,
+    "defectCount": 0
+},{
+    "eventId": "EVT-769",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1769,
+    "defectCount": 0
+},{
+    "eventId": "EVT-770",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1770,
+    "defectCount": 0
+},{
+    "eventId": "EVT-771",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1771,
+    "defectCount": 0
+},{
+    "eventId": "EVT-772",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1772,
+    "defectCount": 0
+},{
+    "eventId": "EVT-773",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1773,
+    "defectCount": 0
+},{
+    "eventId": "EVT-774",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1774,
+    "defectCount": 0
+},{
+    "eventId": "EVT-775",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1775,
+    "defectCount": 0
+},{
+    "eventId": "EVT-776",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1776,
+    "defectCount": 0
+},{
+    "eventId": "EVT-777",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1777,
+    "defectCount": 0
+},{
+    "eventId": "EVT-778",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1778,
+    "defectCount": 0
+},{
+    "eventId": "EVT-779",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1779,
+    "defectCount": 0
+},{
+    "eventId": "EVT-780",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1780,
+    "defectCount": 0
+},{
+    "eventId": "EVT-781",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1781,
+    "defectCount": 0
+},{
+    "eventId": "EVT-782",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1782,
+    "defectCount": 0
+},{
+    "eventId": "EVT-783",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1783,
+    "defectCount": 0
+},{
+    "eventId": "EVT-784",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1784,
+    "defectCount": 0
+},{
+    "eventId": "EVT-785",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1785,
+    "defectCount": 0
+},{
+    "eventId": "EVT-786",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1786,
+    "defectCount": 0
+},{
+    "eventId": "EVT-787",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1787,
+    "defectCount": 0
+},{
+    "eventId": "EVT-788",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1788,
+    "defectCount": 0
+},{
+    "eventId": "EVT-789",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1789,
+    "defectCount": 0
+},{
+    "eventId": "EVT-790",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1790,
+    "defectCount": 0
+},{
+    "eventId": "EVT-791",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1791,
+    "defectCount": 0
+},{
+    "eventId": "EVT-792",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1792,
+    "defectCount": 0
+},{
+    "eventId": "EVT-793",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1793,
+    "defectCount": 0
+},{
+    "eventId": "EVT-794",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1794,
+    "defectCount": 0
+},{
+    "eventId": "EVT-795",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1795,
+    "defectCount": 0
+},{
+    "eventId": "EVT-796",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1796,
+    "defectCount": 0
+},{
+    "eventId": "EVT-797",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1797,
+    "defectCount": 0
+},{
+    "eventId": "EVT-798",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1798,
+    "defectCount": 0
+},{
+    "eventId": "EVT-799",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1799,
+    "defectCount": 0
+},{
+    "eventId": "EVT-800",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1800,
+    "defectCount": 0
+},{
+    "eventId": "EVT-801",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1801,
+    "defectCount": 0
+},{
+    "eventId": "EVT-802",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1802,
+    "defectCount": 0
+},{
+    "eventId": "EVT-803",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1803,
+    "defectCount": 0
+},{
+    "eventId": "EVT-804",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1804,
+    "defectCount": 0
+},{
+    "eventId": "EVT-805",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1805,
+    "defectCount": 0
+},{
+    "eventId": "EVT-806",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1806,
+    "defectCount": 0
+},{
+    "eventId": "EVT-807",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1807,
+    "defectCount": 0
+},{
+    "eventId": "EVT-808",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1808,
+    "defectCount": 0
+},{
+    "eventId": "EVT-809",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1809,
+    "defectCount": 0
+},{
+    "eventId": "EVT-810",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1810,
+    "defectCount": 0
+},{
+    "eventId": "EVT-811",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1811,
+    "defectCount": 0
+},{
+    "eventId": "EVT-812",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1812,
+    "defectCount": 0
+},{
+    "eventId": "EVT-813",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1813,
+    "defectCount": 0
+},{
+    "eventId": "EVT-814",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1814,
+    "defectCount": 0
+},{
+    "eventId": "EVT-815",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1815,
+    "defectCount": 0
+},{
+    "eventId": "EVT-816",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1816,
+    "defectCount": 0
+},{
+    "eventId": "EVT-817",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1817,
+    "defectCount": 0
+},{
+    "eventId": "EVT-818",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1818,
+    "defectCount": 0
+},{
+    "eventId": "EVT-819",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1819,
+    "defectCount": 0
+},{
+    "eventId": "EVT-820",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1820,
+    "defectCount": 0
+},{
+    "eventId": "EVT-821",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1821,
+    "defectCount": 0
+},{
+    "eventId": "EVT-822",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1822,
+    "defectCount": 0
+},{
+    "eventId": "EVT-823",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1823,
+    "defectCount": 0
+},{
+    "eventId": "EVT-824",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1824,
+    "defectCount": 0
+},{
+    "eventId": "EVT-825",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1825,
+    "defectCount": 0
+},{
+    "eventId": "EVT-826",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1826,
+    "defectCount": 0
+},{
+    "eventId": "EVT-827",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1827,
+    "defectCount": 0
+},{
+    "eventId": "EVT-828",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1828,
+    "defectCount": 0
+},{
+    "eventId": "EVT-829",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1829,
+    "defectCount": 0
+},{
+    "eventId": "EVT-830",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1830,
+    "defectCount": 0
+},{
+    "eventId": "EVT-831",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1831,
+    "defectCount": 0
+},{
+    "eventId": "EVT-832",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1832,
+    "defectCount": 0
+},{
+    "eventId": "EVT-833",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1833,
+    "defectCount": 0
+},{
+    "eventId": "EVT-834",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1834,
+    "defectCount": 0
+},{
+    "eventId": "EVT-835",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1835,
+    "defectCount": 0
+},{
+    "eventId": "EVT-836",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1836,
+    "defectCount": 0
+},{
+    "eventId": "EVT-837",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1837,
+    "defectCount": 0
+},{
+    "eventId": "EVT-838",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1838,
+    "defectCount": 0
+},{
+    "eventId": "EVT-839",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1839,
+    "defectCount": 0
+},{
+    "eventId": "EVT-840",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1840,
+    "defectCount": 0
+},{
+    "eventId": "EVT-841",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1841,
+    "defectCount": 0
+},{
+    "eventId": "EVT-842",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1842,
+    "defectCount": 0
+},{
+    "eventId": "EVT-843",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1843,
+    "defectCount": 0
+},{
+    "eventId": "EVT-844",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1844,
+    "defectCount": 0
+},{
+    "eventId": "EVT-845",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1845,
+    "defectCount": 0
+},{
+    "eventId": "EVT-846",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1846,
+    "defectCount": 0
+},{
+    "eventId": "EVT-847",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1847,
+    "defectCount": 0
+},{
+    "eventId": "EVT-848",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1848,
+    "defectCount": 0
+},{
+    "eventId": "EVT-849",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1849,
+    "defectCount": 0
+},{
+    "eventId": "EVT-850",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1850,
+    "defectCount": 0
+},{
+    "eventId": "EVT-851",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1851,
+    "defectCount": 0
+},{
+    "eventId": "EVT-852",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1852,
+    "defectCount": 0
+},{
+    "eventId": "EVT-853",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1853,
+    "defectCount": 0
+},{
+    "eventId": "EVT-854",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1854,
+    "defectCount": 0
+},{
+    "eventId": "EVT-855",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1855,
+    "defectCount": 0
+},{
+    "eventId": "EVT-856",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1856,
+    "defectCount": 0
+},{
+    "eventId": "EVT-857",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1857,
+    "defectCount": 0
+},{
+    "eventId": "EVT-858",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1858,
+    "defectCount": 0
+},{
+    "eventId": "EVT-859",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1859,
+    "defectCount": 0
+},{
+    "eventId": "EVT-860",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1860,
+    "defectCount": 0
+},{
+    "eventId": "EVT-861",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1861,
+    "defectCount": 0
+},{
+    "eventId": "EVT-862",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1862,
+    "defectCount": 0
+},{
+    "eventId": "EVT-863",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1863,
+    "defectCount": 0
+},{
+    "eventId": "EVT-864",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1864,
+    "defectCount": 0
+},{
+    "eventId": "EVT-865",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1865,
+    "defectCount": 0
+},{
+    "eventId": "EVT-866",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1866,
+    "defectCount": 0
+},{
+    "eventId": "EVT-867",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1867,
+    "defectCount": 0
+},{
+    "eventId": "EVT-868",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1868,
+    "defectCount": 0
+},{
+    "eventId": "EVT-869",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1869,
+    "defectCount": 0
+},{
+    "eventId": "EVT-870",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1870,
+    "defectCount": 0
+},{
+    "eventId": "EVT-871",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1871,
+    "defectCount": 0
+},{
+    "eventId": "EVT-872",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1872,
+    "defectCount": 0
+},{
+    "eventId": "EVT-873",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1873,
+    "defectCount": 0
+},{
+    "eventId": "EVT-874",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1874,
+    "defectCount": 0
+},{
+    "eventId": "EVT-875",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1875,
+    "defectCount": 0
+},{
+    "eventId": "EVT-876",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1876,
+    "defectCount": 0
+},{
+    "eventId": "EVT-877",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1877,
+    "defectCount": 0
+},{
+    "eventId": "EVT-878",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1878,
+    "defectCount": 0
+},{
+    "eventId": "EVT-879",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1879,
+    "defectCount": 0
+},{
+    "eventId": "EVT-880",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1880,
+    "defectCount": 0
+},{
+    "eventId": "EVT-881",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1881,
+    "defectCount": 0
+},{
+    "eventId": "EVT-882",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1882,
+    "defectCount": 0
+},{
+    "eventId": "EVT-883",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1883,
+    "defectCount": 0
+},{
+    "eventId": "EVT-884",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1884,
+    "defectCount": 0
+},{
+    "eventId": "EVT-885",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1885,
+    "defectCount": 0
+},{
+    "eventId": "EVT-886",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1886,
+    "defectCount": 0
+},{
+    "eventId": "EVT-887",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1887,
+    "defectCount": 0
+},{
+    "eventId": "EVT-888",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1888,
+    "defectCount": 0
+},{
+    "eventId": "EVT-889",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1889,
+    "defectCount": 0
+},{
+    "eventId": "EVT-890",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1890,
+    "defectCount": 0
+},{
+    "eventId": "EVT-891",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1891,
+    "defectCount": 0
+},{
+    "eventId": "EVT-892",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1892,
+    "defectCount": 0
+},{
+    "eventId": "EVT-893",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1893,
+    "defectCount": 0
+},{
+    "eventId": "EVT-894",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1894,
+    "defectCount": 0
+},{
+    "eventId": "EVT-895",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1895,
+    "defectCount": 0
+},{
+    "eventId": "EVT-896",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1896,
+    "defectCount": 0
+},{
+    "eventId": "EVT-897",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1897,
+    "defectCount": 0
+},{
+    "eventId": "EVT-898",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1898,
+    "defectCount": 0
+},{
+    "eventId": "EVT-899",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1899,
+    "defectCount": 0
+},{
+    "eventId": "EVT-900",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1900,
+    "defectCount": 0
+},{
+    "eventId": "EVT-901",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1901,
+    "defectCount": 0
+},{
+    "eventId": "EVT-902",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1902,
+    "defectCount": 0
+},{
+    "eventId": "EVT-903",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1903,
+    "defectCount": 0
+},{
+    "eventId": "EVT-904",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1904,
+    "defectCount": 0
+},{
+    "eventId": "EVT-905",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1905,
+    "defectCount": 0
+},{
+    "eventId": "EVT-906",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1906,
+    "defectCount": 0
+},{
+    "eventId": "EVT-907",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1907,
+    "defectCount": 0
+},{
+    "eventId": "EVT-908",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1908,
+    "defectCount": 0
+},{
+    "eventId": "EVT-909",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1909,
+    "defectCount": 0
+},{
+    "eventId": "EVT-910",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1910,
+    "defectCount": 0
+},{
+    "eventId": "EVT-911",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1911,
+    "defectCount": 0
+},{
+    "eventId": "EVT-912",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1912,
+    "defectCount": 0
+},{
+    "eventId": "EVT-913",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1913,
+    "defectCount": 0
+},{
+    "eventId": "EVT-914",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1914,
+    "defectCount": 0
+},{
+    "eventId": "EVT-915",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1915,
+    "defectCount": 0
+},{
+    "eventId": "EVT-916",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1916,
+    "defectCount": 0
+},{
+    "eventId": "EVT-917",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1917,
+    "defectCount": 0
+},{
+    "eventId": "EVT-918",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1918,
+    "defectCount": 0
+},{
+    "eventId": "EVT-919",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1919,
+    "defectCount": 0
+},{
+    "eventId": "EVT-920",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1920,
+    "defectCount": 0
+},{
+    "eventId": "EVT-921",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1921,
+    "defectCount": 0
+},{
+    "eventId": "EVT-922",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1922,
+    "defectCount": 0
+},{
+    "eventId": "EVT-923",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1923,
+    "defectCount": 0
+},{
+    "eventId": "EVT-924",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1924,
+    "defectCount": 0
+},{
+    "eventId": "EVT-925",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1925,
+    "defectCount": 0
+},{
+    "eventId": "EVT-926",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1926,
+    "defectCount": 0
+},{
+    "eventId": "EVT-927",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1927,
+    "defectCount": 0
+},{
+    "eventId": "EVT-928",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1928,
+    "defectCount": 0
+},{
+    "eventId": "EVT-929",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1929,
+    "defectCount": 0
+},{
+    "eventId": "EVT-930",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1930,
+    "defectCount": 0
+},{
+    "eventId": "EVT-931",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1931,
+    "defectCount": 0
+},{
+    "eventId": "EVT-932",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1932,
+    "defectCount": 0
+},{
+    "eventId": "EVT-933",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1933,
+    "defectCount": 0
+},{
+    "eventId": "EVT-934",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1934,
+    "defectCount": 0
+},{
+    "eventId": "EVT-935",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1935,
+    "defectCount": 0
+},{
+    "eventId": "EVT-936",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1936,
+    "defectCount": 0
+},{
+    "eventId": "EVT-937",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1937,
+    "defectCount": 0
+},{
+    "eventId": "EVT-938",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1938,
+    "defectCount": 0
+},{
+    "eventId": "EVT-939",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1939,
+    "defectCount": 0
+},{
+    "eventId": "EVT-940",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1940,
+    "defectCount": 0
+},{
+    "eventId": "EVT-941",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1941,
+    "defectCount": 0
+},{
+    "eventId": "EVT-942",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1942,
+    "defectCount": 0
+},{
+    "eventId": "EVT-943",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1943,
+    "defectCount": 0
+},{
+    "eventId": "EVT-944",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1944,
+    "defectCount": 0
+},{
+    "eventId": "EVT-945",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1945,
+    "defectCount": 0
+},{
+    "eventId": "EVT-946",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1946,
+    "defectCount": 0
+},{
+    "eventId": "EVT-947",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1947,
+    "defectCount": 0
+},{
+    "eventId": "EVT-948",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1948,
+    "defectCount": 0
+},{
+    "eventId": "EVT-949",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1949,
+    "defectCount": 0
+},{
+    "eventId": "EVT-950",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1950,
+    "defectCount": 0
+},{
+    "eventId": "EVT-951",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1951,
+    "defectCount": 0
+},{
+    "eventId": "EVT-952",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1952,
+    "defectCount": 0
+},{
+    "eventId": "EVT-953",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1953,
+    "defectCount": 0
+},{
+    "eventId": "EVT-954",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1954,
+    "defectCount": 0
+},{
+    "eventId": "EVT-955",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1955,
+    "defectCount": 0
+},{
+    "eventId": "EVT-956",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1956,
+    "defectCount": 0
+},{
+    "eventId": "EVT-957",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1957,
+    "defectCount": 0
+},{
+    "eventId": "EVT-958",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1958,
+    "defectCount": 0
+},{
+    "eventId": "EVT-959",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1959,
+    "defectCount": 0
+},{
+    "eventId": "EVT-960",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1960,
+    "defectCount": 0
+},{
+    "eventId": "EVT-961",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1961,
+    "defectCount": 0
+},{
+    "eventId": "EVT-962",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1962,
+    "defectCount": 0
+},{
+    "eventId": "EVT-963",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1963,
+    "defectCount": 0
+},{
+    "eventId": "EVT-964",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1964,
+    "defectCount": 0
+},{
+    "eventId": "EVT-965",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1965,
+    "defectCount": 0
+},{
+    "eventId": "EVT-966",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1966,
+    "defectCount": 0
+},{
+    "eventId": "EVT-967",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1967,
+    "defectCount": 0
+},{
+    "eventId": "EVT-968",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1968,
+    "defectCount": 0
+},{
+    "eventId": "EVT-969",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1969,
+    "defectCount": 0
+},{
+    "eventId": "EVT-970",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1970,
+    "defectCount": 0
+},{
+    "eventId": "EVT-971",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1971,
+    "defectCount": 0
+},{
+    "eventId": "EVT-972",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1972,
+    "defectCount": 0
+},{
+    "eventId": "EVT-973",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1973,
+    "defectCount": 0
+},{
+    "eventId": "EVT-974",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1974,
+    "defectCount": 0
+},{
+    "eventId": "EVT-975",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1975,
+    "defectCount": 0
+},{
+    "eventId": "EVT-976",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1976,
+    "defectCount": 0
+},{
+    "eventId": "EVT-977",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1977,
+    "defectCount": 0
+},{
+    "eventId": "EVT-978",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1978,
+    "defectCount": 0
+},{
+    "eventId": "EVT-979",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1979,
+    "defectCount": 0
+},{
+    "eventId": "EVT-980",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1980,
+    "defectCount": 0
+},{
+    "eventId": "EVT-981",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1981,
+    "defectCount": 0
+},{
+    "eventId": "EVT-982",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1982,
+    "defectCount": 0
+},{
+    "eventId": "EVT-983",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1983,
+    "defectCount": 0
+},{
+    "eventId": "EVT-984",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1984,
+    "defectCount": 0
+},{
+    "eventId": "EVT-985",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1985,
+    "defectCount": 0
+},{
+    "eventId": "EVT-986",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1986,
+    "defectCount": 0
+},{
+    "eventId": "EVT-987",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1987,
+    "defectCount": 0
+},{
+    "eventId": "EVT-988",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1988,
+    "defectCount": 0
+},{
+    "eventId": "EVT-989",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1989,
+    "defectCount": 0
+},{
+    "eventId": "EVT-990",
+    "machineId": "M-0",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1990,
+    "defectCount": 0
+},{
+    "eventId": "EVT-991",
+    "machineId": "M-1",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1991,
+    "defectCount": 0
+},{
+    "eventId": "EVT-992",
+    "machineId": "M-2",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1992,
+    "defectCount": 0
+},{
+    "eventId": "EVT-993",
+    "machineId": "M-3",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1993,
+    "defectCount": 0
+},{
+    "eventId": "EVT-994",
+    "machineId": "M-4",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1994,
+    "defectCount": 0
+},{
+    "eventId": "EVT-995",
+    "machineId": "M-5",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1995,
+    "defectCount": 0
+},{
+    "eventId": "EVT-996",
+    "machineId": "M-6",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1996,
+    "defectCount": 0
+},{
+    "eventId": "EVT-997",
+    "machineId": "M-7",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1997,
+    "defectCount": 0
+},{
+    "eventId": "EVT-998",
+    "machineId": "M-8",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1998,
+    "defectCount": 0
+},{
+    "eventId": "EVT-999",
+    "machineId": "M-9",
+    "eventTime": "2026-01-13T10:00:00",
+    "durationMs": 1999,
+    "defectCount": 0
+}]
